@@ -1,0 +1,15 @@
+{
+  "name": "Bloc de Notas Adhesivas",
+  "short_name": "Apuntes",
+  "start_url": "block_notas.html",
+  "display": "standalone",
+    "background_color": "#1e1e2f",
+    "theme_color": "#f39c12",
+  "icons": [
+    {
+      "src": "icono.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    } 
+  ]
+}
